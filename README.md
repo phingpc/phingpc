@@ -7,7 +7,7 @@ Student
 I've been learning JavaScript, looking for a file conversion job : Figma to HTML or PDS to HTML
 
 * 🌍  I'm based in bangkok, thailand
-* ✉️  You can contact me at [jakkaphatphing@gmail.com](mailto:jakkaphatphing@gmail.com)
+* ✉️  You can contact me at [jakkaphat.coworking@gmail.com](mailto:jakkaphat.coworking@gmail.com)
 * 🧠  I'm learning Javascript
 
 <a href="https://www.github.com/phingpc" target="_blank" rel="noreferrer"><img
