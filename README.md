@@ -1,4 +1,4 @@
-Hi 👋 My name is PHinGJakkaphat
+Hi 👋 My name is PHinG Jakkaphat
 ===============================
 
 Student
